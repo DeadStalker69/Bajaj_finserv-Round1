@@ -1,0 +1,5 @@
+Response: {
+  totalStocksLeft: 998,
+  shareCertificateNumber: 'DMAT1860186131',
+  isSuccess: true
+}
